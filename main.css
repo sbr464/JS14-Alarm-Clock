@@ -1,0 +1,86 @@
+
+.Snooze3d {
+	position: absolute;
+	left: 793px;
+	top: 75px;
+}
+
+.container {
+	margin: auto;
+	margin-top: 70px;
+	text-align: center;
+}
+
+.outerShell {
+	position: absolute;
+	left: 300px;
+}
+
+.hours {
+	font-family: 'Orbitron', sans-serif;
+	font-size: 129px;
+	position: absolute;
+	left: 161px;
+	top: 151px;
+}
+
+.minutes {
+	font-family: 'Orbitron', sans-serif;
+	font-size: 129px;
+	position: absolute;
+	left: 388px;
+	top: 151px;
+}
+
+.timeWindowLeft {
+	position: absolute;
+	left: 130px;
+	top: 119px;
+
+}
+
+.timeWindowRight {
+	position: absolute;
+	left: 389px;
+	top: 119px;
+}
+
+
+.AlarmOn {
+	position: absolute;
+	left: 66px;
+	top: 199px;
+	display: none;
+}
+
+.SnoozeButton {
+	position: absolute;
+	left: 795px;
+	top: 67px;
+}
+
+.SnoozeButtonDown {
+	position: absolute;
+	left: 795px;
+	top: 77px;
+}
+
+.IndicatorAM {
+	position: absolute;
+	left: 130px;
+	top: 137px;
+}
+
+.IndicatorPM {
+	position: absolute;
+	left: 130px;
+	top: 166px;
+}
+
+.time {
+	font-family: 'Orbitron', sans-serif;
+	position: absolute;
+	font-size: 129px;
+	left: 190px;
+	top: 150px;
+}
